@@ -7,7 +7,7 @@ function App() {
       <div className="App-box">
         <img src={Aylan} className="App-logo" alt="logo" />
         <p>
-          Alou Mundão!!!
+          Alou Mundão
         </p>
         <a
           className="App-link"
